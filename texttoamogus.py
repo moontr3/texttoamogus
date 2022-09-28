@@ -1,4 +1,6 @@
 '''
+Made by moontr3, 2022
+github.com/moontr3/texttoamogus/
 '''
 
 def amoguser(text, encoding = 'utf-8'):
